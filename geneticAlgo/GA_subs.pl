@@ -365,7 +365,7 @@ Genetic Algorithm program: Takes in a CSV file
      -f CSV file        : <String>  CSV file path of items
      -e elite rate      : <Integer> Number of elite fitness members to save (default 75)
      -t tournament size : <Integer> Specifies size of tournament (default 15)
-     -m mutation rate   : <Integer> Specifies random mutation rate m/len of vector (default 1)
+     -m mutation rate   : <Integer> Specifies random mutation rate m / (len of vector) (default 1)
      -h Help            : Shows this message
 EOF
      exit;
